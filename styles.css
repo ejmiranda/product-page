@@ -1,1 +1,59 @@
- 
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.main-container {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.container {
+  background-color: #F6F6F6;
+  border: 3px solid rgb(195, 193, 193);
+  border-radius: 7px;
+  margin: auto;
+  padding: 10px 25px;
+  width: 500px;
+}
+
+.header {
+  display: flex;
+}
+
+.logo {
+  font-size: 14px;
+  margin-right: auto;
+}
+
+.links {
+  display: flex;
+  font-size: 8px;
+  gap: 5px;
+}
+
+.links label {
+  color: rgb(118, 117, 117);
+  margin: 0 0 3px 0;
+}
+
+.links select {
+  font-size: 8px;
+  text-align: left;
+}
+
+.filter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.sorter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
