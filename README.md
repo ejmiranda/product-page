@@ -8,4 +8,4 @@
 - From [CSS-Tricks](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/).
 - Replicate a responsive product page layout using Flexbox.
 
-> **_""_**
+> **_"What killed the dinosaurs? The ice age!"_** - Mr. Freeze
