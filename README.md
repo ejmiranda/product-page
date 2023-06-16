@@ -1,8 +1,8 @@
 ## Product Page
 
-![Product Page Screenshot](Insert screenshot link)
+![Product Page Screenshot](https://github.com/ejmiranda/product-page/blob/main/media/screenshot.png)
 
-**[View Live](Insert view live link)**
+**[View Live](https://ejmiranda.github.io/product-page/)**
 
 **Description:**
 - From [CSS-Tricks](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/).
